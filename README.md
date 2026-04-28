@@ -8,14 +8,14 @@ Hardware used:
 - FS-iA6B
 
 Config:
-PA0 - TIM2_CH1
-PA1 - TIM2_CH2
-PA2 - USART_TX
-PA3 - USART_RX
+- PA0 - TIM2_CH1
+- PA1 - TIM2_CH2
+- PA2 - USART_TX
+- PA3 - USART_RX
 
 TIM2:
-Clock Source: Internal Clock
-Channel 1: Input Capture direct mode
-Channel 2: Input Capture direct mode
-Prescalre 83
-Counter Period: 65535
+- Clock Source: Internal Clock
+- Channel 1: Input Capture direct mode
+- Channel 2: Input Capture direct mode
+- Prescalre 83
+- Counter Period: 65535
